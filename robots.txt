@@ -1,0 +1,17 @@
+# Herkese izin; yapay zekâ tarayıcıları dahil engellenmez (GEO hedefi).
+User-agent: *
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://tuzakavcisi1-cloud.github.io/sitemap.xml

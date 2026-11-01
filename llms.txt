@@ -1,0 +1,13 @@
+# Tuzak Avcısı: LGS Matematik
+
+> Türkiye'de LGS'ye hazırlanan 8. sınıf öğrencileri için ücretsiz Android matematik antrenman uygulaması. Odak: sorularda sık yapılan hataları (tuzakları) tanımak. Reklam yok, hesap yok, veri toplanmaz, internet izni yok (çevrimdışı çalışır). Yayıncı: Sharpwit Studio. MEB ile resmî bağlantısı yoktur.
+
+## Bağlantılar
+- [Google Play](https://play.google.com/store/apps/details?id=com.tuzakavcisi.antrenman): indirme sayfası
+- [Tanıtım](https://tuzakavcisi1-cloud.github.io/): özellikler ve sık sorulan sorular
+- [Gizlilik politikası](https://tuzakavcisi1-cloud.github.io/tuzak-avcisi-gizlilik/)
+
+## Kısa bilgiler
+- Platform: Android 6.0+ · Fiyat: ücretsiz · Dil: Türkçe
+- Kapsam: 8. sınıf matematiğinin 12 konu başlığı, 43 alıştırma modu, 20 soruluk süreli LGS Denemesi, Beceri Sınavı
+- Sorular parametrik üretilir; gerçek sınav sorusu kullanılmaz
